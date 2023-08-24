@@ -8,7 +8,7 @@ const Logo = () => {
         <BsLink45Deg size={42}/>
       </span>
       <span className="first-word">Link</span>
-      <span className="second-word">Previewer</span>
+      <span className="second-word">view</span>
     </StyledLogo>
   );
 };
